@@ -1,0 +1,16 @@
+.photo {
+  max-height: 500px;
+  width: auto;
+}
+body {
+  background-color: rgb(58, 92, 175);
+  text-align: center;
+}
+h1 {
+  font-size: 48px;
+}
+p {
+  font-size: 24px;
+  text-align: center;
+  color: white;
+}
